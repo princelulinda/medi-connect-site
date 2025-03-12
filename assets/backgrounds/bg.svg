@@ -1,0 +1,12 @@
+<svg class="border shadow-md dark:border-slate-700" viewBox="0 0 1013.76 570.24" style="width: 1013.76px; height: 570.24px;" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"><rect class="bg" id="bg" x="0" y="0" width="1013.76" height="570.24" fill="#ffffff"></rect><g transform="rotate(42 506.88 285.12)"><path d="M -337.92 480.24 S -178.96 438.24
+            0.00 480.24 158.96 441.24
+            337.92 480.24 496.88 430.24
+            675.84 480.24 834.80 472.24
+            1013.76 480.24 1172.72 431.24
+            1351.68 480.24 h 110 V 1170.24 H -337.92 Z" fill="#5998FF"></path><path d="M -337.92 115.00 S -313.00 67.50
+            0.00 115.00 35.92 67.50
+            337.92 115.00 405.84 57.00
+            675.84 115.00 754.76 67.50
+            1013.76 115.00 1065.68 67.50
+            1351.68 115.00 h 110 V -600 H -337.92 Z" fill="#F2F8FC"></path></g>
+</svg>

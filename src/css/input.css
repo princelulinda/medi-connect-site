@@ -1,0 +1,38 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Playwrite+VN:wght@100..400&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* #0072bc */
+/* #014478 */
+
+@layer components {
+  
+ *{
+
+  font-family: 'Host Grotesk', sans-serif;
+  scroll-behavior: smooth;
+    
+ }
+
+ .btn {
+   @apply shadow-lg hover:shadow-sm shadow-blue-900/20 ;
+ }
+ nav{
+    @apply bg-transparent;
+    transition: all 0.9s ease-in;
+ }
+ .nav--scrolled{
+  @apply backdrop-blur-md shadow-gray-500/15 bg-white/10 shadow-2xl ;
+  transition: all 0.5s ease-in;
+ }
+ 
+  .hand-write{
+    font-family: 'Playwrite VN', sans-serif;
+    
+  }
+}
