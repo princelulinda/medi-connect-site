@@ -930,6 +930,16 @@ html{
   min-height: fit-content;
 }
 
+.diff{
+  position: relative;
+  display: grid;
+  width: 100%;
+  overflow: hidden;
+  direction: ltr;
+  container-type: inline-size;
+  grid-template-columns: auto 1fr;
+}
+
 .dropdown{
   position: relative;
   display: inline-block;
